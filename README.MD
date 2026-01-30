@@ -13,4 +13,4 @@ Print enclosure base vertical like on image. Print cover flat.
 
 ![sensor](https://github.com/PrototypeFive/MLFR_Sensor/blob/main/enclosure_2.png)
 
-License:  CERN OHL version 2 
+License:  CERN-OHL-S version 2 
