@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "/home/user/Desktop/filament_sensor/filament_sensor_alt2/alt_2/Library.pretty")(options "")(descr ""))
+)
