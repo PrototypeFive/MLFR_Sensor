@@ -9,8 +9,11 @@ Supply voltage: +5V
 
 Logic: Active Low
 
-Print enclosure base vertical like on image. Print cover flat.
+Print enclosure base with black. 
+Position vertical like on image. 
+There is a sacrifical layer to be removed.
+Print cover transparent, flat on bed. 
 
 ![sensor](https://github.com/PrototypeFive/MLFR_Sensor/blob/main/enclosure_2.png)
 
-License:  CERN-OHL-S version 2 
+License: CERN-OHL-S version 2 
