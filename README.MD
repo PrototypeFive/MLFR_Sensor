@@ -9,10 +9,10 @@ Supply voltage: +5V
 
 Logic: Active Low
 
-<br> Print enclosure base with black.<br/>
-<br>Position vertical like on image.<br/> 
-<br>There is a sacrifical layer to be removed.<br/>
-<br>Print cover transparent, flat on bed.<br/> 
+Print enclosure base with black.<br/>
+Position vertical like on image.<br/> 
+There is a sacrifical layer to be removed.<br/>
+Print cover transparent, flat on bed.<br/> 
 
 ![sensor](https://github.com/PrototypeFive/MLFR_Sensor/blob/main/enclosure_2.png)
 
