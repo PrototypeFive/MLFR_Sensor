@@ -1,18 +1,18 @@
-MLFR_Sensor
+# MLFR_Sensor
 
-Micro_Laser_Filament_Runout_Sensor
+## Micro_Laser_Filament_Runout_Sensor
 
-MLFR_Sensor is 3D printer filament runout sensor based on VCNT2030 Reflective Optical sensor.
-It uses microscopic IR laser and a phototransistor to detect transparent and less reflective materials.
+### MLFR_Sensor is 3D printer filament runout sensor based on VCNT2030 Reflective Optical sensor.
+### It uses microscopic IR laser and a phototransistor to detect transparent and less reflective materials.
 
 Supply voltage: +5V
 
 Logic: Active Low
 
-Print enclosure base with black. 
-Position vertical like on image. 
-There is a sacrifical layer to be removed.
-Print cover transparent, flat on bed. 
+<br> Print enclosure base with black.<br/>
+<br>Position vertical like on image.<br/> 
+<br>There is a sacrifical layer to be removed.<br/>
+<br>Print cover transparent, flat on bed.<br/> 
 
 ![sensor](https://github.com/PrototypeFive/MLFR_Sensor/blob/main/enclosure_2.png)
 
